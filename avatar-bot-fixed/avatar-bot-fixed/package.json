@@ -1,0 +1,23 @@
+{
+  "name": "avatar-sys",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Wick Studio",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.53",
+    "axios": "^1.6.7",
+    "discord.js": "^14.14.1",
+    "gif-encoder-2": "^1.0.5",
+    "gifken": "^3.0.4",
+    "sharp-apng": "^0.1.5"
+  }
+}
